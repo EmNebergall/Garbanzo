@@ -10,3 +10,6 @@ devenv.local.nix
 
 # nodejs dependencies
 node_modules
+
+# anything in the data folder
+data/*
